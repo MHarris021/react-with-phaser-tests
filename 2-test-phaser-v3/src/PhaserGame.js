@@ -6,11 +6,8 @@ import Phaser from 'phaser';
 export default class PhaserGame extends Phaser.Game {
 
     constructor() {
-        super(1500, 1000, Phaser.AUTO, 'phaser-test', demo.state0);
+        super(2500, 1500, Phaser.AUTO, 'phaser-test', demo.state0);
     }
 
-    start() {
-        this.state.start();
-    }
 
 }

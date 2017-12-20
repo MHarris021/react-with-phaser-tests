@@ -10,7 +10,7 @@ export default class Game extends Component {
 
     componentDidMount() {
         this.game = new PhaserGame();
-        this.game.start();
+
     }
 
     render() {
