@@ -2,9 +2,10 @@ import Phaser from 'phaser';
 
 var config = {
     type: Phaser.WEBGL,
-    width: 800,
-    height: 600,
+    width: 2000,
+    height: 1000,
     backgroundColor: '#ff0303',
+    parent: 'phaser-test'
 
 };
 
