@@ -9,7 +9,7 @@ class App extends Component {
             <div className="App">
                 <header className="App-header">
                     <img src={logo} className="App-logo" alt="logo"/>
-                    <h1 className="App-title">2. Testing React with Phaser v3</h1>
+                    <h1 className="App-title">3. Configuring Phaser v3 so Canvas is bigger and changes color</h1>
                 </header>
                 <Game/>
             </div>
