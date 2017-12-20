@@ -22,6 +22,20 @@
     font-size: large;
 }
 
+.Phaser {
+    margin: 0;
+    align-content: center;
+    align-self: center;
+
+}
+
+canvas {
+    margin: 0;
+    alignment: center;
+}
+
+
+
 @keyframes App-logo-spin {
     from {
         transform: rotate(0deg);
